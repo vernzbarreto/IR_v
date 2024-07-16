@@ -1,6 +1,6 @@
  # TechnokidsPh_IR for micro-bit
 
-Extension for Yahboom IR
+Extension for TechnokidsPh IR
 
 Note: IR receiver for TechnokidsPh receiver
 
