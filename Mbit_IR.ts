@@ -3,8 +3,8 @@ Copyright (C): 2020, Shenzhen Yahboom Tech
 modified by chengengyue
 */
 
-/**
- * IR remote
+
+  IR remote
  */
 //% icon="\uf1eb" weight=11 color=50  block="IR_V1.5"
 namespace Mbit_IR {
