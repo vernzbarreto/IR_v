@@ -1,8 +1,8 @@
- # Yahboom_IR for micro-bit
+ # TechnokidsPh_IR for micro-bit
 
 Extension for Yahboom IR
 
-Note: IR receiver for Yahboom receiver
+Note: IR receiver for TechnokidsPh receiver
 
 ## License
 
